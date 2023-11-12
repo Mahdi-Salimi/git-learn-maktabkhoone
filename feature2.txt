@@ -1,3 +1,2 @@
-f2 line A
 f2 line B
 f3 line C
