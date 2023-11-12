@@ -1,2 +1,2 @@
-B line
+B line-edited
 the new line
