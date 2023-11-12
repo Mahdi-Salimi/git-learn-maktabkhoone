@@ -1,2 +1,3 @@
 A Line
 B line
+the new line
